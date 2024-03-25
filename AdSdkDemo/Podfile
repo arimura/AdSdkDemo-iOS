@@ -8,6 +8,10 @@ target 'AdSdkDemo' do
   # Pods for AdSdkDemo
   pod 'AppLovinSDK'
   pod "FluctSDK"
+  pod 'Google-Mobile-Ads-SDK'
+  pod 'MaioSDK'
+  pod 'UnityAds'
+  pod 'Ads-Global'
 
   target 'AdSdkDemoTests' do
     inherit! :search_paths
