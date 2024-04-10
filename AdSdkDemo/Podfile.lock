@@ -7,7 +7,7 @@ PODS:
   - Ads-Global/BURelyAdSDK (5.8.0.8)
   - Ads-Global/Dep_Accurate (5.8.0.8):
     - BURelyFoundation_Global/Pangle (= 0.2.1.4)
-  - AppLovinSDK (12.3.1)
+  - AppLovinSDK (12.4.1)
   - BURelyFoundation_Global/AFNetworking (0.2.1.4)
   - BURelyFoundation_Global/APM (0.2.1.4)
   - BURelyFoundation_Global/Foundation (0.2.1.4):
@@ -67,7 +67,7 @@ SPEC REPOS:
 
 SPEC CHECKSUMS:
   Ads-Global: b2f2943acdeedeae08aa9dce19706e1edbbd5442
-  AppLovinSDK: d99a5a32b00e844932f4583f863780e1af835722
+  AppLovinSDK: c57ad0d34625c971d2db127f8ef60570b28ff51a
   BURelyFoundation_Global: 17ed9cd58d138feefd8c0711dd3294766adcb28e
   FiveAd: 739f4a3ad6e2c0a02d7af64f1483b73bc44e7a0a
   FluctSDK: 6f1eec3c5e0f415b4f490696ef8d11e8f9049820
