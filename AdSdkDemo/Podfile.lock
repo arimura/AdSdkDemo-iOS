@@ -36,7 +36,8 @@ PODS:
     - BURelyFoundation_Global/Zip
   - BURelyFoundation_Global/Zip (0.2.1.4):
     - BURelyFoundation_Global/Foundation
-  - FluctSDK (6.32.4)
+  - FiveAd (2.7.20240318)
+  - FluctSDK (6.33.0)
   - Google-Mobile-Ads-SDK (11.2.0):
     - GoogleUserMessagingPlatform (>= 1.1)
   - GoogleUserMessagingPlatform (2.3.0)
@@ -46,6 +47,7 @@ PODS:
 DEPENDENCIES:
   - Ads-Global
   - AppLovinSDK
+  - FiveAd
   - FluctSDK
   - Google-Mobile-Ads-SDK
   - MaioSDK
@@ -56,6 +58,7 @@ SPEC REPOS:
     - Ads-Global
     - AppLovinSDK
     - BURelyFoundation_Global
+    - FiveAd
     - FluctSDK
     - Google-Mobile-Ads-SDK
     - GoogleUserMessagingPlatform
@@ -66,12 +69,13 @@ SPEC CHECKSUMS:
   Ads-Global: b2f2943acdeedeae08aa9dce19706e1edbbd5442
   AppLovinSDK: d99a5a32b00e844932f4583f863780e1af835722
   BURelyFoundation_Global: 17ed9cd58d138feefd8c0711dd3294766adcb28e
-  FluctSDK: 34641ce2a10e66abbbabaa1714e9527c4ff9e4bf
+  FiveAd: 739f4a3ad6e2c0a02d7af64f1483b73bc44e7a0a
+  FluctSDK: 6f1eec3c5e0f415b4f490696ef8d11e8f9049820
   Google-Mobile-Ads-SDK: 5a6d005a6cb5b5e8f4c7b69ca05cdea79c181139
   GoogleUserMessagingPlatform: b1ad7bb1ee3ce64749d4fec24f667b36e45c396c
   MaioSDK: 446fc1750b18e839fef979b22e790c767ed12a69
   UnityAds: c503b06232a002ff6dc9677f4e32c6e1ae286232
 
-PODFILE CHECKSUM: ff38e1ccd5a42c83908db2a180fb29bd1a17a8b5
+PODFILE CHECKSUM: 3ec14634e0cfe3c0113893e8b04da0886e6cc665
 
 COCOAPODS: 1.15.2

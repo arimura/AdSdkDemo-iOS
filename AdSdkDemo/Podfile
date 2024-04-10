@@ -12,6 +12,7 @@ target 'AdSdkDemo' do
   pod 'MaioSDK'
   pod 'UnityAds'
   pod 'Ads-Global'
+  pod 'FiveAd'
 
   target 'AdSdkDemoTests' do
     inherit! :search_paths
