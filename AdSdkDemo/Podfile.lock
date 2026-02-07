@@ -1,48 +1,19 @@
 PODS:
-  - Ads-Global (5.8.0.8):
-    - Ads-Global/BUAdSDK (= 5.8.0.8)
-  - Ads-Global/BUAdSDK (5.8.0.8):
-    - Ads-Global/BURelyAdSDK
-    - Ads-Global/Dep_Accurate
-  - Ads-Global/BURelyAdSDK (5.8.0.8)
-  - Ads-Global/Dep_Accurate (5.8.0.8):
-    - BURelyFoundation_Global/Pangle (= 0.2.1.4)
-  - AppLovinSDK (12.4.1)
-  - BURelyFoundation_Global/AFNetworking (0.2.1.4)
-  - BURelyFoundation_Global/APM (0.2.1.4)
-  - BURelyFoundation_Global/Foundation (0.2.1.4):
-    - BURelyFoundation_Global/NETWork
-  - BURelyFoundation_Global/Gecko (0.2.1.4):
-    - BURelyFoundation_Global/Foundation
-  - BURelyFoundation_Global/Header (0.2.1.4)
-  - BURelyFoundation_Global/NETWork (0.2.1.4):
-    - BURelyFoundation_Global/AFNetworking
-  - BURelyFoundation_Global/Pangle (0.2.1.4):
-    - BURelyFoundation_Global/AFNetworking
-    - BURelyFoundation_Global/APM
-    - BURelyFoundation_Global/Foundation
-    - BURelyFoundation_Global/Gecko
-    - BURelyFoundation_Global/Header
-    - BURelyFoundation_Global/NETWork
-    - BURelyFoundation_Global/SDWebImage
-    - BURelyFoundation_Global/YYModel
-    - BURelyFoundation_Global/ZFPlayer
-    - BURelyFoundation_Global/Zip
-  - BURelyFoundation_Global/SDWebImage (0.2.1.4):
-    - BURelyFoundation_Global/Foundation
-  - BURelyFoundation_Global/YYModel (0.2.1.4)
-  - BURelyFoundation_Global/ZFPlayer (0.2.1.4):
-    - BURelyFoundation_Global/Foundation
-    - BURelyFoundation_Global/Zip
-  - BURelyFoundation_Global/Zip (0.2.1.4):
-    - BURelyFoundation_Global/Foundation
-  - FiveAd (2.7.20240411)
-  - FluctSDK (6.35.2)
-  - Google-Mobile-Ads-SDK (11.3.0):
+  - Ads-Global (7.9.0.6):
+    - Ads-Global/BUAdSDK (= 7.9.0.6)
+  - Ads-Global/BUAdSDK (7.9.0.6):
+    - Ads-Global/PangleSDK
+    - Ads-Global/TikTokBusinessSDK
+  - Ads-Global/PangleSDK (7.9.0.6)
+  - Ads-Global/TikTokBusinessSDK (7.9.0.6)
+  - AppLovinSDK (13.5.1)
+  - FiveAd (3.0.0)
+  - FluctSDK (6.40.2)
+  - Google-Mobile-Ads-SDK (13.0.0):
     - GoogleUserMessagingPlatform (>= 1.1)
-  - GoogleUserMessagingPlatform (2.3.0)
+  - GoogleUserMessagingPlatform (3.1.0)
   - MaioSDK (1.6.5)
-  - UnityAds (4.10.0)
+  - UnityAds (4.16.6)
 
 DEPENDENCIES:
   - Ads-Global
@@ -57,7 +28,6 @@ SPEC REPOS:
   trunk:
     - Ads-Global
     - AppLovinSDK
-    - BURelyFoundation_Global
     - FiveAd
     - FluctSDK
     - Google-Mobile-Ads-SDK
@@ -66,16 +36,15 @@ SPEC REPOS:
     - UnityAds
 
 SPEC CHECKSUMS:
-  Ads-Global: b2f2943acdeedeae08aa9dce19706e1edbbd5442
-  AppLovinSDK: c57ad0d34625c971d2db127f8ef60570b28ff51a
-  BURelyFoundation_Global: 17ed9cd58d138feefd8c0711dd3294766adcb28e
-  FiveAd: 27375ac7fde76085544389cc090d744149fdbe78
-  FluctSDK: d738c9e6de1657dbfb2d64d5735aa961a07db264
-  Google-Mobile-Ads-SDK: 301a16c461c331ba34ff4dab40a22ab7c147af61
-  GoogleUserMessagingPlatform: b1ad7bb1ee3ce64749d4fec24f667b36e45c396c
+  Ads-Global: fb1fa75ebbf100ab9ff216d81b71a05cf1a73675
+  AppLovinSDK: 8d9af6c7617e4d35b38aa8393a3e9d161a74b230
+  FiveAd: 16fac25b6d3efe14b55585e68e6c01dec1f10abc
+  FluctSDK: 819cb03140ca376e344924cd170f8d1f81516400
+  Google-Mobile-Ads-SDK: 96498d53355e438e2d932277e5e8e41a824fe4d4
+  GoogleUserMessagingPlatform: befe603da6501006420c206222acd449bba45a9c
   MaioSDK: 446fc1750b18e839fef979b22e790c767ed12a69
-  UnityAds: 5601f6397b0e02ed3ed6ee92827f5177a523aab6
+  UnityAds: 37544c41dd6916fa9074bf68cf07fce793460b84
 
 PODFILE CHECKSUM: 3ec14634e0cfe3c0113893e8b04da0886e6cc665
 
-COCOAPODS: 1.15.2
+COCOAPODS: 1.16.2
