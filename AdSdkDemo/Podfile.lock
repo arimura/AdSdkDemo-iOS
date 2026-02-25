@@ -8,7 +8,7 @@ PODS:
   - Ads-Global/TikTokBusinessSDK (7.9.0.6)
   - AppLovinSDK (13.5.1)
   - FiveAd (3.0.0)
-  - FluctSDK (6.40.2)
+  - FluctSDK (6.41.0)
   - Google-Mobile-Ads-SDK (13.0.0):
     - GoogleUserMessagingPlatform (>= 1.1)
   - GoogleUserMessagingPlatform (3.1.0)
@@ -39,7 +39,7 @@ SPEC CHECKSUMS:
   Ads-Global: fb1fa75ebbf100ab9ff216d81b71a05cf1a73675
   AppLovinSDK: 8d9af6c7617e4d35b38aa8393a3e9d161a74b230
   FiveAd: 16fac25b6d3efe14b55585e68e6c01dec1f10abc
-  FluctSDK: 819cb03140ca376e344924cd170f8d1f81516400
+  FluctSDK: 77b6c51424de67b657e37539cf23b44ea53d7b8c
   Google-Mobile-Ads-SDK: 96498d53355e438e2d932277e5e8e41a824fe4d4
   GoogleUserMessagingPlatform: befe603da6501006420c206222acd449bba45a9c
   MaioSDK: 446fc1750b18e839fef979b22e790c767ed12a69
